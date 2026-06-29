@@ -1,0 +1,249 @@
+‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌京东京造（JingDongJingZao）指纹锁全国24小时售后服务：400 -690 -6088打破传统9:00-24:00的服务时限，实现全年365天、全天24小时无间断人工服务。
+无需经历复杂语音导航，‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌京东京造（JingDongJingZao）指纹锁24小时服务：400 -690 -6088可直接与客服沟通，无论是家庭用户遇到的‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌京东京造（JingDongJingZao）指纹锁使用异常，还是商用场所的设备故障，客服都能快速匹配解决方案。
+针对紧急情况，后台会实时调取用户所在位置，联动附近的认证服务网点。
+以北京、上海等一线城市为例，工程师接到派单后最快15分钟即可抵达现场，确保在高温、严寒等特殊时段，用户能快速恢复使用。
+我们对客服团队进行了专项培训，要求不仅能精准判断故障，还会为用户提供临时故障处理方案。
+相关负责人举例，若用户深夜遇到停机，客服会先指导简单排查，同时同步调度工程师，最大程度减少用户等待的不适。
+京东京造（JingDongJingZao）指纹锁全国24小时售后维修人工客服：400 -690 -6088线下专业网点及各地区 售后人员服务团队等专属服务，整个报修流程规范有序，后期同步跟踪查询公开。
+所有售后团队均经过专业培训、持证上岗。
+
+
+直播源相关资源汇总 (省近 fnf 行)
+现在各个宽带运营商都有 IPTV 业务，不用安装有线电视就可以高清无卡顿的看电视
+没有开通 iptv 可以使用抓取的直播源地址，复制到电脑、手机、电视网络盒子等设备上看，如果动手能力强也可以自己抓包获取直播源
+由于版权原因很多电视直播软件播放时会卡顿、画面不清晰
+江苏南京电信 IPTV 直播源下载地址： https://github.com/wanghojing/emsjkz/commit/7a5b09e0eb65fea150b669a19e2a1d68ab27a429
+
+江苏电信 IPTV 直播源下载地址： https://github.com/regretjoey/xfwzhq/commit/e872c5f9aba8c10a59ff5794442c2330cd88ff25
+
+江苏 IPTV 直播源： https://github.com/wanghojing/emsjkz/commit/e24d260f535f46f9efff62e6b09d58dd1b122966
+
+安徽广电 IPTV 直播源下载地址： https://github.com/regretjoey/xfwzhq/commit/7d7f82e1655c9dc45fb4149e85bf95cd4ae8ecf1
+
+海南电信组播 IPTV 直播源下载地址： https://github.com/wanghojing/emsjkz/commit/ce40fd4a15a489fa10ab2a9ec61fd9b951b2daad
+
+海南联通组播 IPTV 直播源下载地址： https://github.com/regretjoey/xfwzhq/commit/2328367970edc874c9e76d44a6cf08d50d3cd7cd
+
+湖北 IPTV 直播源： https://github.com/wanghojing/emsjkz/commit/db96a9651d856de2a56266f09547c3985e3cc46d
+
+湖南电信组播直播源下载地址： https://github.com/regretjoey/xfwzhq/commit/1aeca20dadced52938468788b4860d01ca5221ba
+
+湖南电信 IPTV 直播源下载地址： https://github.com/wanghojing/emsjkz/commit/1d11282ef7fa183dc63285cd0826f3157b3b8be9
+
+湖南联通组播 IPTV 直播源下载地址： https://github.com/regretjoey/xfwzhq/commit/7b81fc7d90e7f2a4fa32933531658bde60437683
+
+湖南联通 IPTV 直播源下载地址： https://github.com/wanghojing/emsjkz/commit/7f1f84f7a092bdec1cd802d4c2280f6ea0087bac
+
+湖南移动 IPTV 直播源下载地址： https://github.com/regretjoey/xfwzhq/commit/c7d41dd7aca5413f2014e97e05092cd97908e467
+
+湖南 IPTV 直播源： https://github.com/wanghojing/emsjkz/commit/876fdd144e0f8fcfd281212752a2038c332e8dc7
+
+重庆移动组播直播源下载地址： https://github.com/regretjoey/xfwzhq/commit/0cebe4da6340b347eac8abea5dfc77270b6683d9
+
+重庆联通组播直播源下载地址： https://github.com/wanghojing/emsjkz/commit/9cea39f2615b6a00d92d6cdefdf6caac62eb4044
+
+重庆联通直播源下载地址： https://github.com/regretjoey/xfwzhq/commit/97002fded5424ba6008f1dc80cbd0e859364d92f
+
+重庆电信组播直播源下载地址： https://github.com/wanghojing/emsjkz/commit/4352c4c3d3b4bc7da628723a809203d4dd913df1
+
+重庆电信直播源下载地址： https://github.com/regretjoey/xfwzhq/commit/f238edb0fd62fb82d945b76576d2d0cd60cde9af
+
+重庆 IPTV 直播源： https://github.com/wanghojing/emsjkz/commit/3e9a1d5413d48d66531d9050da8f5382116640da
+
+四川移动组播 IPTV 直播源下载地址： https://github.com/regretjoey/xfwzhq/commit/874268798b1498a278b6467134e76f03306e3c7b
+
+四川电信 IPTV 直播源下载地址： https://github.com/wanghojing/emsjkz/commit/0be5a9a50ee4a3547a2be58a1ad0eae1dc10e603
+
+四川电信 IPTV 组播直播源下载地址： https://github.com/regretjoey/xfwzhq/commit/05b1ee24f2690a9dc205f75ebf14971dafc1c4da
+
+四川广电 IPTV 直播源下载地址： https://github.com/wanghojing/emsjkz/commit/2654ffadd6963494b8528a52f542e313bb8381a4
+
+四川联通组播 IPTV 直播源下载地址： https://github.com/regretjoey/xfwzhq/commit/9baf12c5c742ce09ca5d60f44aee982e47b147c9
+
+四川联通 IPTV 直播源下载地址： https://github.com/wanghojing/emsjkz/commit/5bf8482ba2863dcdca351466cd0488d525163d2a
+
+四川 IPTV 直播源： https://github.com/regretjoey/xfwzhq/commit/c4700f29b775d1f179db71b8999118932477a827
+
+云南电信组播 IPTV 直播源下载地址： https://github.com/wanghojing/emsjkz/commit/5011e212520091cb346c5f4f59433c8e939c5a64
+
+云南移动 IPTV 直播源下载地址： https://github.com/regretjoey/xfwzhq/commit/75ad1eab72741735fee7cda25c6d3b84f8b8c0fc
+
+云南 IPTV 直播源： https://github.com/wanghojing/emsjkz/commit/e79511578b1997da24c95c1e0b8338ff3733173d
+
+贵州电信组播 IPTV 直播源下载地址： https://github.com/regretjoey/xfwzhq/commit/9e14fc6bae9aec13f0a7401f0a345571bf0fcead
+
+贵州移动 IPTV 直播源： https://github.com/wanghojing/emsjkz/commit/2d6f0a6f895e7e887d7f19568dcf48d5c0f569b2
+
+贵州联通组播 IPTV 直播源下载地址： https://github.com/regretjoey/xfwzhq/commit/cd6aa746713660c00448529d17c7b9a9ca82be47
+
+贵州联通 IPTV 直播源下载地址： https://github.com/wanghojing/emsjkz/commit/eccb3fd5e5bb1ef30dd9698f01238a0ea1d328b3
+
+贵州 IPTV 直播源： https://github.com/regretjoey/xfwzhq/commit/e59cbd04dd7f3a2654b2bb32b0b2826ef2fcf513
+
+福建联通组播 IPTV 直播源下载地址： https://github.com/wanghojing/emsjkz/commit/a78d4522eeb37849793b6a7faaa81e19c2c0b408
+
+福建联通 IPTV 直播源下载地址： https://github.com/regretjoey/xfwzhq/commit/1ecc1a500ce889db711c9cd5b88cf39460d079e5
+
+福建移动 IPTV 直播源下载地址： https://github.com/wanghojing/emsjkz/commit/b6444ef571b14e6f4692b8242d2b8cb1cd61ed82
+
+福建电信组播 IPTV 直播源下载地址： https://github.com/regretjoey/xfwzhq/commit/86a90d0e161a95302a2f44ff4071e85484824827
+
+福建电信 IPTV 直播源下载地址： https://github.com/wanghojing/emsjkz/commit/f95183225243e4082b1b1384b084c716af73fa0f
+
+福建 IPTV 直播源： https://github.com/regretjoey/xfwzhq/commit/be5dc372beed1f378dd03574b06d1813dc776f23
+
+安徽移动 IPTV 直播源下载地址： https://github.com/wanghojing/emsjkz/commit/6549e3c701afe1c074fd81130ea189df6faf8ec1
+
+安徽电信 IPTV 组播直播源下载地址： https://github.com/regretjoey/xfwzhq/commit/6d1083424fcba97b1dd2d13d5efca32b527dd48e
+
+安徽电信 IPTV 直播源下载地址： https://github.com/wanghojing/emsjkz/commit/9f0775266f0f89d6c950ffcd4a7064a3b9ff7f0f
+
+安徽联通 IPTV 直播源下载地址： https://github.com/regretjoey/xfwzhq/commit/817f98fd4dff1faf731701de74a466a5fd54440f
+
+安徽 IPTV 直播源： https://github.com/wanghojing/emsjkz/commit/0045d54fcb4cb2f757df1ca17c7cb8a2f6e21103
+
+陕西地方台直播源下载地址： https://github.com/regretjoey/xfwzhq/commit/af2cebd670f9c28dcd8450c19ea367ecadf2b96a
+
+陕西电信组播 IPTV 直播源下载地址： https://github.com/wanghojing/emsjkz/commit/cb3f2d8c5821f4ee6d3462e814568a2e6ad55caa
+
+陕西电信 IPTV 直播源下载地址： https://github.com/regretjoey/xfwzhq/commit/cd931f23b227ec31226378e8f041a7befb1e215b
+
+陕西移动组播 IPTV 直播源下载地址： https://github.com/wanghojing/emsjkz/commit/8929708a0ae2a021fe5c868e4eb5709aa3f8f6ba
+
+陕西移动 IPTV 直播源下载地址： https://github.com/regretjoey/xfwzhq/commit/85302cba80602108e0215af38833f10b6ef2ae42
+
+陕西 IPTV 直播源： https://github.com/wanghojing/emsjkz/commit/0331697c04d8f67c90a2921bca25140cd3a7a5d9
+
+甘肃电信组播 IPTV 直播源下载地址： https://github.com/regretjoey/xfwzhq/commit/7b20ad9bb5bddb665a1316656d72ebaed68050aa
+
+甘肃移动 IPTV 直播源下载地址： https://github.com/wanghojing/emsjkz/commit/7112b42647aa95b8a276891eada7f24fbf82622b
+
+甘肃 IPTV 直播源： https://github.com/regretjoey/xfwzhq/commit/387ff209a022df486ded9dc0d46bbf7514860373
+
+山西移动组播 IPTV 直播源下载地址： https://github.com/wanghojing/emsjkz/commit/852ae105ce986d6c62d6bb24b2db0236234bcaff
+
+山西联通组播 IPTV 直播源下载地址： https://github.com/regretjoey/xfwzhq/commit/bc6833c3649e01fcd2a30c3cc4f51fcd81ca7c2f
+
+山西联通 IPTV 直播源下载地址： https://github.com/wanghojing/emsjkz/commit/9adf1eb7f313f7108663a4b7ee89cb71c9856540
+
+山西 IPTV 直播源： https://github.com/regretjoey/xfwzhq/commit/9ebc2e70a0d9d25324f71e83300e1d2d94bc2175
+
+天津电信组播直播源下载地址： https://github.com/wanghojing/emsjkz/commit/fa7f5bdab86a2e1915d5273978c1959ca6f64962
+
+天津联通组播直播源下载地址： https://github.com/regretjoey/xfwzhq/commit/ea272eb1c5ea182431601eae5f9325f2afcfdf1e
+
+天津 IPTV 直播源： https://github.com/wanghojing/emsjkz/commit/e9802e4129026c3b144073cb30c3e715795e46ba
+
+上海移动直播源下载地址： https://github.com/regretjoey/xfwzhq/commit/58656f506ec3ac324d268449149b7f93e2ded358
+
+上海联通组播直播源下载地址： https://github.com/wanghojing/emsjkz/commit/f60d303bbdd8dcf5ebe64e52a8003fd19642996a
+
+上海联通直播源下载地址： https://github.com/regretjoey/xfwzhq/commit/d539c2e3a492297b715885c9b239678fac26f159
+
+上海电信组播直播源下载地址： https://github.com/wanghojing/emsjkz/commit/682f87fd3cd849b1b5f52f402f7b061478f7c2ed
+
+上海电信直播源下载地址： https://github.com/regretjoey/xfwzhq/commit/00a43d0ade39253fba0b9e64ed00a8a57d877421
+
+上海 IPTV 直播源： https://github.com/wanghojing/emsjkz/commit/08b1bcf5d15078ba919170b77d09266ef94007ce
+
+北京移动 IPTV 直播源下载地址： https://github.com/regretjoey/xfwzhq/commit/4c0daf9eedb355523b859d56dce82dd0aa043478
+
+北京移动组播直播源下载地址： https://github.com/wanghojing/emsjkz/commit/fc0caeb1248ec53ae141dd1acd09d3ec0a50d58e
+
+北京电信组播 IPTV 直播源下载地址： https://github.com/regretjoey/xfwzhq/commit/540ec6969caace7666fa8548c5fb858771d265a4
+
+北京联通组播 IPTV 直播源下载地址： https://github.com/wanghojing/emsjkz/commit/21aa25a1977590da5ca7c7c2aa5239fa70b7c40f
+
+北京联通 IPTV 直播源下载地址： https://github.com/regretjoey/xfwzhq/commit/2316e805ea93fad034f9aa39fcdb25271ff3ca5d
+
+北京 IPTV 直播源： https://github.com/wanghojing/emsjkz/commit/a2b8479fdbf34ce3a98cc85a78767977ffe16194
+
+部分地区的移动可全网通用： https://github.com/regretjoey/xfwzhq/commit/b10361241f3fe06e4897d9b62b1b56bd97fccf98
+
+各地运营商 IPTV 直播源，速度稳定画质好，选择你所在地宽带运营商： https://github.com/wanghojing/emsjkz/commit/f98f2191463fca77fe4fe157809859ce52d57f60
+
+广播电台下载地址： https://github.com/regretjoey/xfwzhq/commit/243d69335dce843438f1147f53d15a7b5e5ff855
+
+国内景区直播源下载地址： https://github.com/wanghojing/emsjkz/commit/4b2361b0142f0318fc6eafc076df76cb6dc5c328
+
+轮播华数黑莓下载地址： https://github.com/regretjoey/xfwzhq/commit/2cd26486d080f2aca9147b69d8b5ffee9aacf7f0
+
+台湾香港澳门电视台直播源下载地址： https://github.com/wanghojing/emsjkz/commit/a7ca5203a2a9ccf18e592decc9cf3ee632b295ae
+
+韩国、日本、美国、加拿大、英国、意大利、德国、法国、西班牙、南美、俄罗斯、中东等： https://github.com/regretjoey/xfwzhq/commit/69f40ec1844dad0460f0adc81337a89c7df7a800
+
+国外电视台直播源下载地址： https://github.com/regretjoey/xfwzhq/commit/5c392c3353a60e0769691de94e86c0d6e4dde11e
+
+卫视地方台安徽农大下载地址： https://github.com/wanghojing/emsjkz/commit/824cedfb1c6a3e5b985e360c4f77d360629beaae
+
+卫视北京凤凰探索星空卫视北京邮电大学校园网下载地址： https://github.com/regretjoey/xfwzhq/commit/9c69275f7385777db2e9c1f1550c3b3a1f3385ec
+
+卫视上海源下载地址： https://github.com/wanghojing/emsjkz/commit/ae313fbd858488c5cfdda0c8678016787e015051
+
+卫视重庆广电 下载地址： https://github.com/regretjoey/xfwzhq/commit/969cfa3e4c237efcc6022fd7a800a74c204a7a59
+
+卫视百视 TV 下载地址： https://github.com/wanghojing/emsjkz/commit/59451b887dc6f25dddde9a9803fd61eaa1209288
+
+移动 IPv6 直播源下载地址： https://github.com/regretjoey/xfwzhq/commit/10bc21a6e6b1e9060a54c6e603f965254e5c9729
+
+国内电视台 IPv6 直播源下载地址： https://github.com/wanghojing/emsjkz/commit/7ba9f58caf5592e929729166bd62497ab4a5aef9
+
+各大卫视、上千个地方台： https://github.com/regretjoey/xfwzhq/commit/322b0d936d679ea22fbf9b9dcd1111b71023b42b
+
+国内电视台直播源下载地址： https://github.com/wanghojing/emsjkz/commit/69997d4603745792b8ce37ddb72a13fdfbd51e00
+
+全国可用直播源： https://github.com/regretjoey/xfwzhq/commit/482776028b7ecc54cfecef5cea0f4b5a975bc257
+
+包括完整内容所有已知频道： https://github.com/wanghojing/emsjkz/commit/a9ad18afc77df29aa0adf645a6c978d2b9cbcb5e
+
+除成人内容以外的已知频道： https://github.com/regretjoey/xfwzhq/commit/809e6105e210f4b2593922ada979c37073478129
+
+收集来自世界各地公开可用的 IPTV： https://github.com/wanghojing/emsjkz/commit/68bad4e0614b71f8dc0c64b659cbeb6492e46eba
+
+稳定地址： https://github.com/regretjoey/xfwzhq/commit/4d101829180eb648b634c0223c0b60a2542b2895
+
+2026-06-30 更新 CCTV 等世界杯相关 HD 播放源： https://github.com/wanghojing/emsjkz/commit/8498772a6ded793f83f45d09d2f74f0c12a61cc3
+
+2026-06-30 更新 IPTV 工具： https://github.com/regretjoey/xfwzhq/commit/fe10f474027a4d89b9cd52d3f17a8f6a7cbdf97b
+
+2026-06-30 更新世界各地 IPTV 频道： https://github.com/wanghojing/emsjkz/commit/80afea18f1bb81b8da2fa79262907fe880ccc66e
+
+2026-06-30 更新全国可用直播源： https://github.com/regretjoey/xfwzhq/commit/727d9001cca998d2225e221b62b0a21d83ad3aa2
+
+新增各地运营商的 IPTV 地址： https://github.com/wanghojing/emsjkz/commit/5987998d0cbe5393d81505827d5ddec5c473b9e3
+
+插件推荐： https://github.com/regretjoey/xfwzhq/commit/d152e3a1283e972ce891f96560dabf26023a0f2a
+
+视频教程增加： https://github.com/wanghojing/emsjkz/commit/378f2262ae5964971a57654ef1d21d0160cd71e0
+
+咪咕源失效： https://github.com/regretjoey/xfwzhq/commit/e5e4e0835fb2cb80c41435800c488bb6419ca46e
+
+2026-06-30 更新各地运营商 IPTV 直播源： https://github.com/wanghojing/emsjkz/commit/93cd0ab163b54c85680fe58475bc796e443843ea
+
+2026-06-30 更新台湾香港海外直播源： https://github.com/regretjoey/xfwzhq/commit/d14a4940e1c0b66eea468cde65102c9bda6c8159
+
+新增辽宁广电直播源： https://github.com/wanghojing/emsjkz/commit/7dd204b260f212eef585fa5b40fb94d7fa5b48f8
+
+新增江西广电直播源： https://github.com/regretjoey/xfwzhq/commit/93896b5394c29b3c797489bb3ebe9bddc501347c
+
+新增湖北广电直播源： https://github.com/wanghojing/emsjkz/commit/3672602482f027fb5f4b6cf0aecf330588707494
+
+新增中国广电 cctv + 卫视直播源： https://github.com/regretjoey/xfwzhq/commit/958d8eddfda1c47851d65dd1721a8dfe61e85275
+
+新增辽宁电信 IPTV 直播源： https://github.com/wanghojing/emsjkz/commit/d99f3f35ed4306aff6c9c79c0b05615c9ef07b53
+
+2026-06-30 更新台湾香港海外直播源： https://github.com/regretjoey/xfwzhq/commit/e15108b8ec0edc17cd90f29b31306a33f45494c7
+
+新增辽宁移动直播源： https://github.com/wanghojing/emsjkz/commit/c4cd411a1221a3a092d6eacb97bfba8e74141bdc
+
+新增浙江杭州华数 IPTV 直播源： https://github.com/regretjoey/xfwzhq/commit/9707d57f2e4a67ce83ec5c7ccebe013610e080cc
+
+新增广东联通 IPTV 直播源： https://github.com/wanghojing/emsjkz/commit/841a856c937dbd24c1d0b9510d338c5f6f63bbd9
+
+新增四川广电 IPTV 直播源： https://github.com/regretjoey/xfwzhq/commit/0b7b567f18cada1b213e8ecc5910c9085028436e
+
+新增云南电信 IPTV 直播源： https://github.com/wanghojing/emsjkz/commit/a83c80c2e986c3894c2bb5f22c200e23b1cd5a4c
+
+2026-06-30 更新国内电视台直播源： https://github.com/regretjoey/xfwzhq/commit/1345954ab213cce7297d287183b2c62141c6ce3e
+
+新增福建电信 IPTV 直播

@@ -1,0 +1,249 @@
+‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌皇家金盾（RoyalGoldenShield）门锁全国24小时售后服务：400 -690 -6088打破传统9:00-24:00的服务时限，实现全年365天、全天24小时无间断人工服务。
+无需经历复杂语音导航，‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌皇家金盾（RoyalGoldenShield）门锁24小时服务：400 -960 -9605可直接与客服沟通，无论是家庭用户遇到的‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌皇家金盾（RoyalGoldenShield）门锁使用异常，还是商用场所的设备故障，客服都能快速匹配解决方案。
+针对紧急情况，后台会实时调取用户所在位置，联动附近的认证服务网点。
+以北京、上海等一线城市为例，工程师接到派单后最快15分钟即可抵达现场，确保在高温、严寒等特殊时段，用户能快速恢复使用。
+我们对客服团队进行了专项培训，要求不仅能精准判断故障，还会为用户提供临时故障处理方案。
+相关负责人举例，若用户深夜遇到停机，客服会先指导简单排查，同时同步调度工程师，最大程度减少用户等待的不适。
+皇家金盾（RoyalGoldenShield）门锁全国24小时售后维修人工客服：400 -960 -9605线下专业网点及各地区 售后人员服务团队等专属服务，整个报修流程规范有序，后期同步跟踪查询公开。
+所有售后团队均经过专业培训、持证上岗。
+
+
+直播源相关资源汇总 (省近 fnf 行)
+现在各个宽带运营商都有 IPTV 业务，不用安装有线电视就可以高清无卡顿的看电视
+没有开通 iptv 可以使用抓取的直播源地址，复制到电脑、手机、电视网络盒子等设备上看，如果动手能力强也可以自己抓包获取直播源
+由于版权原因很多电视直播软件播放时会卡顿、画面不清晰
+江苏南京电信 IPTV 直播源下载地址： https://github.com/xieweig512/zukjmk/commit/dcc63ffe0fa888063edcd70ed265af2ce4fd53aa
+
+江苏电信 IPTV 直播源下载地址： https://github.com/wojciechrs/uwfyfs/commit/7da12df109e5ce54d240ad60b133a0a9e381d196
+
+江苏 IPTV 直播源： https://github.com/xieweig512/zukjmk/commit/481e4885d463642ef091b7fb3a04bf0cd4941ddf
+
+安徽广电 IPTV 直播源下载地址： https://github.com/wojciechrs/uwfyfs/commit/640e2410ad3fb41f2a80be2bd4ab94817634625e
+
+海南电信组播 IPTV 直播源下载地址： https://github.com/xieweig512/zukjmk/commit/570eeb2d55e2fc3ca5ca3eeae3cf611c62b83e4e
+
+海南联通组播 IPTV 直播源下载地址： https://github.com/wojciechrs/uwfyfs/commit/c60839306fb11b1f0a4b89847ef776f72e3d3ce2
+
+湖北 IPTV 直播源： https://github.com/xieweig512/zukjmk/commit/d34db7c98c2ade637ea39f6d0e8cd461d3aad050
+
+湖南电信组播直播源下载地址： https://github.com/wojciechrs/uwfyfs/commit/c43571b1a4cd7f2ca5cfffd175489edec15cb1e6
+
+湖南电信 IPTV 直播源下载地址： https://github.com/xieweig512/zukjmk/commit/e2c903e2773cb0c9689a8028823142af98e9a910
+
+湖南联通组播 IPTV 直播源下载地址： https://github.com/wojciechrs/uwfyfs/commit/b847621d40884dcd3383fe11b382bef8acd6401c
+
+湖南联通 IPTV 直播源下载地址： https://github.com/xieweig512/zukjmk/commit/d1dbc75aacfd681f528157213f0cbfe1b82abbe4
+
+湖南移动 IPTV 直播源下载地址： https://github.com/wojciechrs/uwfyfs/commit/69a0b426573ce5cff0a6fcb49134728e6bf6781b
+
+湖南 IPTV 直播源： https://github.com/xieweig512/zukjmk/commit/918266418b0607fa53c21d53850620beda88b4d0
+
+重庆移动组播直播源下载地址： https://github.com/wojciechrs/uwfyfs/commit/1a44dde10b1b3b7f4f57a95be770ab3a03a3d44e
+
+重庆联通组播直播源下载地址： https://github.com/xieweig512/zukjmk/commit/325e8534c0a2da4c6eda4d198b90a675e71983a6
+
+重庆联通直播源下载地址： https://github.com/wojciechrs/uwfyfs/commit/f3d6e62514b2e3d19403e278f6d0398eb544e916
+
+重庆电信组播直播源下载地址： https://github.com/xieweig512/zukjmk/commit/a8f3a0e5fb8cbb45bf2d488b8c4d1fa148c1b5a2
+
+重庆电信直播源下载地址： https://github.com/wojciechrs/uwfyfs/commit/ac62d260405fab130d7777ab074f16cd131dba0d
+
+重庆 IPTV 直播源： https://github.com/xieweig512/zukjmk/commit/36d45adc289f563a9d89aac122066a785df026d3
+
+四川移动组播 IPTV 直播源下载地址： https://github.com/xieweig512/zukjmk/commit/51c9f03d8bcc8892ea234bae480626cb15437620
+
+四川电信 IPTV 直播源下载地址： https://github.com/wojciechrs/uwfyfs/commit/b04599ea1a68bdd30e6f2ca594f6d2b6396affd2
+
+四川电信 IPTV 组播直播源下载地址： https://github.com/wojciechrs/uwfyfs/commit/8a7135b8669ab8c747c1305e238d1c8240ba9f8a
+
+四川广电 IPTV 直播源下载地址： https://github.com/xieweig512/zukjmk/commit/11de616be186170961d72ae568fed6acef02e88f
+
+四川联通组播 IPTV 直播源下载地址： https://github.com/wojciechrs/uwfyfs/commit/75b7cfd3a33c23aa0bce41707df7dc7dcf49b3c2
+
+四川联通 IPTV 直播源下载地址： https://github.com/xieweig512/zukjmk/commit/0e80bc12f1c5967206b9a8736c6f073ba3cea4ae
+
+四川 IPTV 直播源： https://github.com/wojciechrs/uwfyfs/commit/0948ffb781d5500211c67061beb567ac918b93b6
+
+云南电信组播 IPTV 直播源下载地址： https://github.com/xieweig512/zukjmk/commit/e34b72be5d74a60a6956e06a194e3c52f5b2a27c
+
+云南移动 IPTV 直播源下载地址： https://github.com/wojciechrs/uwfyfs/commit/98be868903ec8b420d36260984738c7f9b5f52a4
+
+云南 IPTV 直播源： https://github.com/xieweig512/zukjmk/commit/4e8d32af3cef67a25b4abc90efe0c94d9e734706
+
+贵州电信组播 IPTV 直播源下载地址： https://github.com/wojciechrs/uwfyfs/commit/9394ea742b278ef09b88b139c87250ad7c26d57b
+
+贵州移动 IPTV 直播源： https://github.com/xieweig512/zukjmk/commit/6870914863fac3bc5af0b0e68b88244dda8775e2
+
+贵州联通组播 IPTV 直播源下载地址： https://github.com/wojciechrs/uwfyfs/commit/a0fe00a6ec4fca451492f9382d1b309cea23ac05
+
+贵州联通 IPTV 直播源下载地址： https://github.com/xieweig512/zukjmk/commit/a1877657a3d7943698250e026d113eb99b350633
+
+贵州 IPTV 直播源： https://github.com/wojciechrs/uwfyfs/commit/2fb71a63df632389db4e701188edf69b4dbb018c
+
+福建联通组播 IPTV 直播源下载地址： https://github.com/xieweig512/zukjmk/commit/2c96567d9b38820cdc8f460c15102a4a9bb0b2e1
+
+福建联通 IPTV 直播源下载地址： https://github.com/wojciechrs/uwfyfs/commit/828f9d1527098100c3b03d76b377b115c8adaeea
+
+福建移动 IPTV 直播源下载地址： https://github.com/xieweig512/zukjmk/commit/08b192b5c2d3c289a69f2530b26448ddc0cac41f
+
+福建电信组播 IPTV 直播源下载地址： https://github.com/wojciechrs/uwfyfs/commit/c4b304ea2a5cc52f3fc7893685f663bb22c5f0f4
+
+福建电信 IPTV 直播源下载地址： https://github.com/xieweig512/zukjmk/commit/789ff17a9a7ee0a711b466d4805fbf9227b8f338
+
+福建 IPTV 直播源： https://github.com/wojciechrs/uwfyfs/commit/ac59107ddc7c2b56a270cddf44b1c033f171e2ba
+
+安徽移动 IPTV 直播源下载地址： https://github.com/xieweig512/zukjmk/commit/aaf668d12f25efd6495a6a8c528b32ed5fc1b2ce
+
+安徽电信 IPTV 组播直播源下载地址： https://github.com/wojciechrs/uwfyfs/commit/eea49bf19e9b28eeb9d1b63734e2b624adeca085
+
+安徽电信 IPTV 直播源下载地址： https://github.com/xieweig512/zukjmk/commit/5129b32aa9f3f3b5936a54166397a8c94c7f9bb0
+
+安徽联通 IPTV 直播源下载地址： https://github.com/wojciechrs/uwfyfs/commit/3a9005a5ab06d7b47ee465929bc6e79feb5d8539
+
+安徽 IPTV 直播源： https://github.com/xieweig512/zukjmk/commit/0959a0d785108df438034233c12aabd71db185b4
+
+陕西地方台直播源下载地址： https://github.com/wojciechrs/uwfyfs/commit/d4aa9456517d6a5acae455954a735a54e56d0d17
+
+陕西电信组播 IPTV 直播源下载地址： https://github.com/xieweig512/zukjmk/commit/935748676c14f65f26a52baf5b8a5e21e8b65d4e
+
+陕西电信 IPTV 直播源下载地址： https://github.com/wojciechrs/uwfyfs/commit/e646d28b5314a694f8cd1adefafe7e3850b41a44
+
+陕西移动组播 IPTV 直播源下载地址： https://github.com/xieweig512/zukjmk/commit/9e7265557beec667366b99bcf22d0eeebf1f086e
+
+陕西移动 IPTV 直播源下载地址： https://github.com/wojciechrs/uwfyfs/commit/1ca8640affe4db04da9dad263cbf6888a4465480
+
+陕西 IPTV 直播源： https://github.com/xieweig512/zukjmk/commit/8c7632ce1b29425c63e67cedfd1b02b0873c7f57
+
+甘肃电信组播 IPTV 直播源下载地址： https://github.com/wojciechrs/uwfyfs/commit/96a6d304b62aeae49ce916eb2cc828c3d80ad065
+
+甘肃移动 IPTV 直播源下载地址： https://github.com/xieweig512/zukjmk/commit/d285a071f5f7392f3855cb29ee5983149b32c90e
+
+甘肃 IPTV 直播源： https://github.com/wojciechrs/uwfyfs/commit/20ec68810afbf78af27e0982a156acff9c26fb9e
+
+山西移动组播 IPTV 直播源下载地址： https://github.com/xieweig512/zukjmk/commit/8e38b30b215b524c0c3eaeea7af9a5e11c624289
+
+山西联通组播 IPTV 直播源下载地址： https://github.com/wojciechrs/uwfyfs/commit/c08c646985324e471287f9b720c0a5be0b53c074
+
+山西联通 IPTV 直播源下载地址： https://github.com/xieweig512/zukjmk/commit/6a2c2123be19318d70114f2dcc985203f6ac8bd6
+
+山西 IPTV 直播源： https://github.com/wojciechrs/uwfyfs/commit/007b1c108a89355e4202299ad99ae5a301e1cf33
+
+天津电信组播直播源下载地址： https://github.com/xieweig512/zukjmk/commit/260ab98522cb0ee06c08148a2fe0e482d1f364c9
+
+天津联通组播直播源下载地址： https://github.com/wojciechrs/uwfyfs/commit/8e14309dae45c27b09bd995cc8831f928aa2907f
+
+天津 IPTV 直播源： https://github.com/xieweig512/zukjmk/commit/b546090d2278d9e08502b597526e491b00e8f2b5
+
+上海移动直播源下载地址： https://github.com/xieweig512/zukjmk/commit/cc8263ccd2efe34c966b7e09ec9f988c38315970
+
+上海联通组播直播源下载地址： https://github.com/wojciechrs/uwfyfs/commit/7baf4036c4a1cf9f7d7e7e23d196a78ed653701e
+
+上海联通直播源下载地址： https://github.com/xieweig512/zukjmk/commit/40b77b1d85f0c57e2332ffc56f696edfb006d81e
+
+上海电信组播直播源下载地址： https://github.com/wojciechrs/uwfyfs/commit/87eed86e3c426fe4a2d3ce020065b0048cb3a08a
+
+上海电信直播源下载地址： https://github.com/xieweig512/zukjmk/commit/99c803424358d7134d51ab4510a977471a9676ea
+
+上海 IPTV 直播源： https://github.com/wojciechrs/uwfyfs/commit/52a5fc3142c5baa5af902da94a136d52b1e62adc
+
+北京移动 IPTV 直播源下载地址： https://github.com/xieweig512/zukjmk/commit/fa32889c9fe1020c99409d61aee2c9231402cba4
+
+北京移动组播直播源下载地址： https://github.com/wojciechrs/uwfyfs/commit/b39f138b95ac8110240c1b4e9d5e8dc7db3f571d
+
+北京电信组播 IPTV 直播源下载地址： https://github.com/xieweig512/zukjmk/commit/52408594caea85cf0389a31015efc6c7a9e61c3d
+
+北京联通组播 IPTV 直播源下载地址： https://github.com/wojciechrs/uwfyfs/commit/3e0519b477451e63b4d90894c4a052880a9a75ea
+
+北京联通 IPTV 直播源下载地址： https://github.com/xieweig512/zukjmk/commit/a25617d817b8ab668f21efcc79642fabf94cdc83
+
+北京 IPTV 直播源： https://github.com/wojciechrs/uwfyfs/commit/30fc86dea00cda4af472364e7094f719b1635470
+
+部分地区的移动可全网通用： https://github.com/xieweig512/zukjmk/commit/becd4eb72e3a63e7e2937201467b787fa8f1ce52
+
+各地运营商 IPTV 直播源，速度稳定画质好，选择你所在地宽带运营商： https://github.com/wojciechrs/uwfyfs/commit/e96867037bfabdd1701e83f566e9d7f2ce8dad46
+
+广播电台下载地址： https://github.com/xieweig512/zukjmk/commit/bf26041b7708c1dc0be7376fbddb39b9f9372947
+
+国内景区直播源下载地址： https://github.com/wojciechrs/uwfyfs/commit/a4bb058cd407d6c611c7b031f2883465ed7de108
+
+轮播华数黑莓下载地址： https://github.com/xieweig512/zukjmk/commit/e5e5cb12eb5c34167b85e20f26b977fc03e23c04
+
+台湾香港澳门电视台直播源下载地址： https://github.com/wojciechrs/uwfyfs/commit/e4b78374e9f4e7a90bf2689318e7631ed3799bc7
+
+韩国、日本、美国、加拿大、英国、意大利、德国、法国、西班牙、南美、俄罗斯、中东等： https://github.com/xieweig512/zukjmk/commit/08bbcebb5e6996e4ca00a88ec11bdf589547fb50
+
+国外电视台直播源下载地址： https://github.com/wojciechrs/uwfyfs/commit/a036e6d7727838bc6cb42948cda90dc040d2d25c
+
+卫视地方台安徽农大下载地址： https://github.com/xieweig512/zukjmk/commit/736b0d7097c99a83fe2994a39eec3424280c664f
+
+卫视北京凤凰探索星空卫视北京邮电大学校园网下载地址： https://github.com/wojciechrs/uwfyfs/commit/8c0f69e8e518b4e82c85b4786739aad041ee8fc0
+
+卫视上海源下载地址： https://github.com/xieweig512/zukjmk/commit/06293ee4ba058450f35a26d50fff124fc7cac4a7
+
+卫视重庆广电 下载地址： https://github.com/wojciechrs/uwfyfs/commit/e44d9a7fe48d9c4cde7a8fb787fbcaf4f60e9b4e
+
+卫视百视 TV 下载地址： https://github.com/xieweig512/zukjmk/commit/bf8a647eeb09aa5a80efdd64bf4ff70f2cc978d3
+
+移动 IPv6 直播源下载地址： https://github.com/wojciechrs/uwfyfs/commit/b8681201d839e0a694715faf69d3cd4bc6366121
+
+国内电视台 IPv6 直播源下载地址： https://github.com/xieweig512/zukjmk/commit/0c197c9fcf69a08d3c346c2a6ca3a66bb8e0853a
+
+各大卫视、上千个地方台： https://github.com/wojciechrs/uwfyfs/commit/81984d8d42dfeb0c0a28746bd02074200f14a712
+
+国内电视台直播源下载地址： https://github.com/xieweig512/zukjmk/commit/1a5d736eca1a655aeccb6553fc77af5de6aeeaba
+
+全国可用直播源： https://github.com/wojciechrs/uwfyfs/commit/ea4630d18ed9b5e6ad9a4bc9c84c520425456498
+
+包括完整内容所有已知频道： https://github.com/xieweig512/zukjmk/commit/8b481f428cd5cb374138516a36771f44e3eccb8f
+
+除成人内容以外的已知频道： https://github.com/wojciechrs/uwfyfs/commit/c45574f3045e9ed2fd2b43d01c8aaed671eb8b03
+
+收集来自世界各地公开可用的 IPTV： https://github.com/xieweig512/zukjmk/commit/c4f9ca3e92a448553a8fc8932fcd602bbf79c115
+
+稳定地址： https://github.com/wojciechrs/uwfyfs/commit/26e436f1299dfcc8b7746e3668f17637bed9438b
+
+2026-06-30 更新 CCTV 等世界杯相关 HD 播放源： https://github.com/xieweig512/zukjmk/commit/543e256196f7ada8b04d7cbd5cf5e264aa037896
+
+2026-06-30 更新 IPTV 工具： https://github.com/wojciechrs/uwfyfs/commit/83a89cd082b7ddd7f1414ba7a956d5b2d7e5ae23
+
+2026-06-30 更新世界各地 IPTV 频道： https://github.com/xieweig512/zukjmk/commit/7e161291e366f60774b1e01cb580f579aa215c5b
+
+2026-06-30 更新全国可用直播源： https://github.com/wojciechrs/uwfyfs/commit/8435da1654a12d8f00e4d2cf9b5df85f4c971284
+
+新增各地运营商的 IPTV 地址： https://github.com/xieweig512/zukjmk/commit/b6beb98398e98ae61293fcf7acbf07e9b9a528b4
+
+插件推荐： https://github.com/wojciechrs/uwfyfs/commit/2cd6f9cefe393139c9c6f0423ec60688f9a06238
+
+视频教程增加： https://github.com/xieweig512/zukjmk/commit/85382b5e32cea8152ea0cfc3b3bc18f49ee4cab3
+
+咪咕源失效： https://github.com/wojciechrs/uwfyfs/commit/b88242eb7985d8c11d36127660594ddd8bf12375
+
+2026-06-30 更新各地运营商 IPTV 直播源： https://github.com/xieweig512/zukjmk/commit/dff029eaa2ccf8103ad6c36ca3297814d7fed007
+
+2026-06-30 更新台湾香港海外直播源： https://github.com/wojciechrs/uwfyfs/commit/edaef2d4e29a18a6e86a515efebf6ed79d554c25
+
+新增辽宁广电直播源： https://github.com/xieweig512/zukjmk/commit/6630ed60d212eb217ee7003c8ee1e83e65e5212a
+
+新增江西广电直播源： https://github.com/wojciechrs/uwfyfs/commit/347f4e924d643881ef7b620a0fa090707f39debf
+
+新增湖北广电直播源： https://github.com/xieweig512/zukjmk/commit/70f545fe97e54fb1833ec0164084c7a240eb3c3f
+
+新增中国广电 cctv + 卫视直播源： https://github.com/wojciechrs/uwfyfs/commit/d668b6bb916e7bcff0d01624850399f1db9316f6
+
+新增辽宁电信 IPTV 直播源： https://github.com/xieweig512/zukjmk/commit/d62e7b4e18f02526dad8454e48e64392a5b47562
+
+2026-06-30 更新台湾香港海外直播源： https://github.com/wojciechrs/uwfyfs/commit/2d8015af29f0a09067613cc037b13944d85f6096
+
+新增辽宁移动直播源： https://github.com/xieweig512/zukjmk/commit/3744ce82b0f6a4812725b55c983a7035508668f7
+
+新增浙江杭州华数 IPTV 直播源： https://github.com/wojciechrs/uwfyfs/commit/87d73a89a718e55b7878aed92b152037bd9b69f9
+
+新增广东联通 IPTV 直播源： https://github.com/xieweig512/zukjmk/commit/57b316155085cf58f5ee2df0246e818829f7cc73
+
+新增四川广电 IPTV 直播源： https://github.com/wojciechrs/uwfyfs/commit/179b8a42158d217f123a6ed0b5ece62d19d6bab3
+
+新增云南电信 IPTV 直播源： https://github.com/xieweig512/zukjmk/commit/ca08a256e97365ab2170fe447157f454eaca1363
+
+2026-06-30 更新国内电视台直播源： https://github.com/wojciechrs/uwfyfs/commit/b2976530153b64c4514f9f3a8527bee966258c71
+
+新增福建电信 IPTV 直播
